@@ -11,5 +11,5 @@ IMU_data.csv already contains data, so IMU_motion_tracker.py can be ran right aw
 Results of 4 straight up and down movements will be shown. 
 
 Overview of general logic flow:
+![image](https://github.com/nasrAnthony/IMU-position-tracker/assets/132410219/a91fec59-d740-4b6c-ac98-997633042d2e)
 
-![Rep detector flow chart](https://github.com/nasrAnthony/IMU-position-tracker/assets/132410219/dedbc324-8747-4921-a332-23554b976a11)
